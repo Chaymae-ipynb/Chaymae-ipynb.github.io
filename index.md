@@ -25,11 +25,11 @@ This website contains my active research, write-ups, experiment logs, and learni
 ## 📚 Sections
 
 👉 [**Research**](research.md)  
-Rigorous write-ups of experiments and findings.
+Write-ups of experiments and findings...
 
 👉 [**Research Log**](log.md)  
-Daily/weekly notes, observations, failures, insights.
+Daily/weekly notes, observations, failures...
 
 👉 [**About Me**](about.md)  
-Academic background, interests, CV, how to contact me.
+Academic/Professional background, interests, how to contact me.
 
