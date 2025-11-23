@@ -3,10 +3,6 @@ layout: default
 title: Home
 ---
 
-<p align="center" style="font-size: 64px; margin-bottom: 20px;">
-  🔬
-</p>
-
 # Welcome
 
 I’m **Chaymae Jaouhar**, a Data & AI consultant in the TMT industry and an aspiring researcher focusing on:
