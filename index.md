@@ -5,7 +5,7 @@ title: Home
 
 # Welcome
 
-I’m **Chaymae Jaouhar**, a Data & AI consultant in the TMT industry and an aspiring researcher focusing on:
+I’m **Chaymae**, a Data & AI consultant in the TMT industry and an aspiring researcher focusing on:
 
 - Mechanistic interpretability  
 - Toxicity, alignment, and safe model deployment  
