@@ -1,1 +1,20 @@
+title: "Welcome to my Research Log!"
+description: "Documenting my experiments, the evolution of my research interests and a compilation of my thoughts and self-learning journey"
+theme: minima
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation menu
+header_pages:
+  - index.md
+  - research.md
+  - log.md
+  - about.md
 
