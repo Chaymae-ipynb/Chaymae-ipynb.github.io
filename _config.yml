@@ -11,10 +11,9 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Navigation menu
 header_pages:
   - index.md
   - research.md
   - log.md
-  - about.md
+  #- about.md
 
