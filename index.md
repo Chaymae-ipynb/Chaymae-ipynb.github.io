@@ -20,6 +20,3 @@ Write-ups of experiments and findings. Please note that the research papers I sh
 [**Research Log**](log.md)  
 Weekly notes and observations ( a later addition) : This section will compile my notes/assumptions before conducting research, post-research notes and how my understanding and assumptions evolve over the lifecycle of my experiments.
 
-[**About Me**](about.md)  
-Academic/Professional background and Interests
-
