@@ -1,6 +1,5 @@
-favicon: "🔍"
-title: "Welcome to my Research Log!"
-description: "Documenting my experiments, the evolution of my research interests and a compilation of my thoughts and self-learning journey"
+title: "Welcome to my Research Log"
+description: "Documenting my experiments and my self-learning journey. A forthcoming section will be added where I will present my reflection pieces discussing my research findings from broad conceptual and philosophical perspectives."
 theme: minima
 
 markdown: kramdown
