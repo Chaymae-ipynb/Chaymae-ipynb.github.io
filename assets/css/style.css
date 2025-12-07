@@ -39,3 +39,17 @@
   opacity: 0.6;
 }
 
+.figures-button {
+  padding: 8px 16px;
+  background-color: #222;
+  color: white !important;
+  text-decoration: none;
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: 600;
+  transition: background-color 0.2s ease;
+}
+
+.figures-button:hover {
+  background-color: #444;
+}
