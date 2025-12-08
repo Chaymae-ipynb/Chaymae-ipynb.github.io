@@ -20,17 +20,17 @@ classes: figures-page
 </div>
 
 <div class="figure-container">
-  <img src="../assets/project1/cla4.png" alt="Figure 1" />
+  <img src="../assets/project1/cla4.png" alt="Figure 4" />
 </div>
 
 <div class="figure-container">
-  <img src="../assets/project1/cla5.png" alt="Figure 2" />
+  <img src="../assets/project1/cla5.png" alt="Figure 5" />
 </div>
 
 <div class="figure-container">
-  <img src="../assets/project1/cla6.png" alt="Figure 3" />
+  <img src="../assets/project1/cla6.png" alt="Figure 6" />
 </div>
 
 <div class="figure-container">
-  <img src="../assets/project1/cla7.png" alt="Figure 3" />
+  <img src="../assets/project1/cla7.png" alt="Figure 7" />
 </div>
