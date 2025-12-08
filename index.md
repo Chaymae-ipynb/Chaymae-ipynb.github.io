@@ -2,16 +2,29 @@
 layout: default
 title: Home
 ---
-
 ## Welcome
 
-I’m **Chaymae Jaouhar**, a Data & AI consultant in the TMT industry and am developing a research trajectory with interests in AI Safety Evaluation, Mechanistic Interpretability and Human-AI interactions. With LLMs becoming a major part of modern life, I developed interest for this field to understand these systems that are now part of my life, and my work.
+<p>
+  <img src="/assets/Photo_ID.jpg"
+       alt="Profile photo"
+       style="float:left; margin:0 12px 8px 0; width:60px; height:60px; border-radius:50%; object-fit:cover;">
+  I’m <strong>Chaymae Jaouhar</strong>, a Data &amp; AI consultant in the TMT industry and I am developing a research
+  trajectory with interests in AI Safety Evaluation, Mechanistic Interpretability and Human–AI interactions.
+  With LLMs becoming a major part of modern life, I became interested in this field to better understand
+  these systems that are now part of my life and my work.
+</p>
 
-My ambition is to actively contribute through research to the general understanding of model behavior, AI safety, fairness, and inclusive alignment across different linguistic communities.
+<p>
+  My ambition is to actively contribute through research to the general understanding of model behavior,
+  AI safety, fairness, and “inclusive” AI alignment across different linguistic communities.
+</p>
 
-This website contains my active research, write-ups, and experiment logs about the research landscape I am exploring.  
-Please note that my research is independent of my corporate activity.
+<p>
+  This website contains my active research, write-ups and experiment logs about the research landscape I am exploring.
+  <em>Please note that my research is independent of my corporate activity.</em>
 
+  My personal e-mail is : chaymaejawhar at gmail dot com
+</p>
 
 ---
 ## Sections
