@@ -53,3 +53,7 @@
 .figures-button:hover {
   background-color: #444;
 }
+.figures-page {
+  background-color: #ffffff !important;
+  padding: 20px;
+}
