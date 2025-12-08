@@ -33,3 +33,23 @@ permalink: /research/CS-figures/
 <div class="figure-container">
   <img src="/assets/CS/cs7.PNG" alt="Figure 7" />
 </div>
+
+<div class="figure-container">
+  <img src="/assets/CS/cs8.PNG" alt="Figure 8" />
+</div>
+
+<div class="figure-container">
+  <img src="/assets/CS/cs9.PNG" alt="Figure 9" />
+</div>
+
+<div class="figure-container">
+  <img src="/assets/CS/cs10.PNG" alt="Figure 10" />
+</div>
+
+<div class="figure-container">
+  <img src="/assets/CS/cs11.PNG" alt="Figure 11" />
+</div>
+
+<div class="figure-container">
+  <img src="/assets/CS/cs12.PNG" alt="Figure 12" />
+</div>
