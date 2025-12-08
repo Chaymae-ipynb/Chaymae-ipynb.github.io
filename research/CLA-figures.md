@@ -2,15 +2,35 @@
 layout: default
 title: "Figures & Captions"
 permalink: /research/CLA-figures/
+classes: figures-page
 ---
 
 # Figures & Captions
 
-You can now add images like this:
+<div class="figure-container">
+  <img src="../assets/project1/cla1.png" alt="Figure 1" />
+</div>
 
-![Figure 1](../assets/project1/figure1.png)
-**Figure 1. Description **
+<div class="figure-container">
+  <img src="../assets/project1/cla2.png" alt="Figure 2" />
+</div>
 
-![Figure 2](../assets/project1/figure2.png)
-**Figure 2. caption**
+<div class="figure-container">
+  <img src="../assets/project1/cla3.png" alt="Figure 3" />
+</div>
 
+<div class="figure-container">
+  <img src="../assets/project1/cla4.png" alt="Figure 1" />
+</div>
+
+<div class="figure-container">
+  <img src="../assets/project1/cla5.png" alt="Figure 2" />
+</div>
+
+<div class="figure-container">
+  <img src="../assets/project1/cla6.png" alt="Figure 3" />
+</div>
+
+<div class="figure-container">
+  <img src="../assets/project1/cla7.png" alt="Figure 3" />
+</div>
