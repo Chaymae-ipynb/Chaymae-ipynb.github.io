@@ -6,10 +6,30 @@ permalink: /research/CS-figures/
 
 # Figures & Captions
 
-You can now add images like this:
+<div class="figure-container">
+  <img src="/assets/CS/cs1.PNG" alt="Figure 1" />
+</div>
 
-![Figure 1](../assets/project1/figure1.png)
-**Figure 1. Description **
+<div class="figure-container">
+  <img src="/assets/CS/cs2.PNG" alt="Figure 2" />
+</div>
 
-![Figure 2](../assets/project1/figure2.png)
-**Figure 2. caption**
+<div class="figure-container">
+  <img src="/assets/CS/cs3.PNG" alt="Figure 3" />
+</div>
+
+<div class="figure-container">
+  <img src="/assets/CS/cs4.PNG" alt="Figure 4" />
+</div>
+
+<div class="figure-container">
+  <img src="/assets/CS/cs5.PNG" alt="Figure 5" />
+</div>
+
+<div class="figure-container">
+  <img src="/assets/CS/cs6.PNG" alt="Figure 6" />
+</div>
+
+<div class="figure-container">
+  <img src="/assets/CS/cs7.PNG" alt="Figure 7" />
+</div>
