@@ -72,3 +72,25 @@
   background: white !important;
 }
 
+.intro-container {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+.intro-photo {
+  width: 110px;
+  height: 110px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 3px solid #ddd;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.intro-text {
+  flex: 1;
+  font-size: 1.05rem;
+  line-height: 1.5;
+}
+
