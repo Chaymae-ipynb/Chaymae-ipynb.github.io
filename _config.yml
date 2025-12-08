@@ -17,3 +17,5 @@ header_pages:
   - log.md
   #- about.md
 
+include:
+  - assets/css/style.css
