@@ -1,5 +1,14 @@
 title: "Welcome to my Website"
-description: "A record of my independent research practice and my ongoing self-learning journey. A new section will be added where I will share my reflection pieces expanding on the wider conceptual ( and philosophical) implications of my findings."
+description: >
+  <div style="display:flex; align-items:center; gap:10px; margin-top:10px;">
+    <img src="/assets/photo_ID.jpg" alt="profile" style="width:32px; height:32px; border-radius:50%; object-fit:cover;">
+    <span>
+      A record of my independent research practice and my ongoing self-learning journey. 
+      A new section will be added where I will share my reflection pieces expanding on the wider conceptual 
+      (and philosophical) implications of my findings.
+    </span>
+  </div>
+#description: "A record of my independent research practice and my ongoing self-learning journey. A new section will be added where I will share my reflection pieces expanding on the wider conceptual ( and philosophical) implications of my findings."
 theme: minima
 
 markdown: kramdown
