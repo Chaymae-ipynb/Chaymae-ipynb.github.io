@@ -57,3 +57,13 @@
   background-color: #ffffff !important;
   padding: 20px;
 }
+.figure-container {
+  text-align: center;
+  margin: 40px 0;
+}
+
+.figure-container img {
+  max-width: 100%;
+  border-radius: 4px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+}
