@@ -17,10 +17,5 @@ header_pages:
   - log.md
   #- about.md
 
-sass:
-  load_paths:
-    - assets/css
-
-minima:
-  skin: classic
-
+include:
+  - assets/css/style.css
