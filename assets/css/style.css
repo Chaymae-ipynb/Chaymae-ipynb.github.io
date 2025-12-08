@@ -79,19 +79,17 @@
   margin-bottom: 30px;
 }
 
-.intro-photo {
-  width: 48px;    
-  height: 48px;     
-  object-fit: cover;
-  border-radius: 50%;
-  border: 2px solid #ccc;
-  box-shadow: 0 1px 4px rgba(0,0,0,0.1);
-}
 .intro-text {
   flex: 1;
   font-size: 1.05rem;
   line-height: 1.5;
 }
 
-
+.intro-photo {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 2px solid #ccc;
+}
 
