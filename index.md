@@ -5,7 +5,7 @@ title: Home
 
 ## Welcome
 
-I’m **Chaymae**, a Data & AI consultant in the TMT industry and am developing a research trajectory with interests in AI Safety Evaluation, Mechanistic Interpretability and Human-AI interactions. With LLMs becoming a major part of modern life, I developed interest for this field to understand these systems that influence my work and daily interactions.
+I’m **Chaymae Jaouhar**, a Data & AI consultant in the TMT industry and am developing a research trajectory with interests in AI Safety Evaluation, Mechanistic Interpretability and Human-AI interactions. With LLMs becoming a major part of modern life, I developed interest for this field to understand these systems that are now part of my life, and my work.
 
 My ambition is to actively contribute through research to the general understanding of model behavior, AI safety, fairness, and inclusive alignment across different linguistic communities.
 
