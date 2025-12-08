@@ -2,7 +2,6 @@
 layout: default
 title: "Figures & Captions"
 permalink: /research/CLA-figures/
-classes: figures-page
 ---
 
 # Figures & Captions
