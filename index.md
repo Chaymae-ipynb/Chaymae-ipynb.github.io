@@ -6,7 +6,7 @@ title: Home
 ## Welcome
 
 <div class="intro-container">
-  <img src="/assets/Photo ID.jpg" alt="Profile photo" class="intro-photo">
+  <img src="/assets/Photo_ID.jpg" alt="Profile photo" class="intro-photo">
 
   <div class="intro-text">
     I’m **Chaymae**, a Data & AI consultant in the TMT industry and am developing a research trajectory with interests in AI Safety Evaluation, Mechanistic Interpretability and Human-AI interactions. With LLMs becoming a major part of "modern life", I developed interest for this field to undestand these systems that are part of my life and my own work. Now, my ambition is to actively contribute through research, to the general understanding of model behavior, AI safety and fairness, and "Inclusive" AI Alignment across different linguistic communities. 
@@ -17,7 +17,6 @@ Please note that my research is independent of my corporate activity.
   </div>
 </div>
 
----
 
 ## Sections
 
